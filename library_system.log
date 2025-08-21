@@ -1,0 +1,20 @@
+2025-08-21 01:58:20,597 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-21 01:58:20,601 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-21 01:58:20,602 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-21 01:58:20,947 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 01:58:30,340 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 01:59:02,952 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 10:07:20,343 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-21 10:07:20,344 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-21 10:07:20,344 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-21 10:07:20,629 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 10:08:23,042 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 10:08:25,356 - __main__ - INFO - Book added: nevermore exrw by ivan george
+2025-08-21 12:35:43,215 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-21 12:35:43,215 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-21 12:35:43,216 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-21 12:35:43,218 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 12:35:50,309 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 12:36:38,075 - __main__ - INFO - Successfully connected to MySQL database
+2025-08-21 12:36:38,240 - __main__ - INFO - Book added: Book of God by God
+2025-08-21 12:36:46,237 - __main__ - INFO - Application terminated by user
